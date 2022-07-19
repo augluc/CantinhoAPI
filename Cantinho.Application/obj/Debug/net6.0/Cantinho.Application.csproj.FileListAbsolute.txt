@@ -1,0 +1,15 @@
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\bin\Debug\net6.0\Cantinho.Application.deps.json
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\bin\Debug\net6.0\Cantinho.Application.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\bin\Debug\net6.0\Cantinho.Application.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.csproj.AssemblyReference.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.AssemblyInfoInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.AssemblyInfo.cs
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.csproj.CoreCompileInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\refint\Cantinho.Application.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\ref\Cantinho.Application.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\bin\Debug\net6.0\Cantinho.Domain.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\bin\Debug\net6.0\Cantinho.Domain.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Application\obj\Debug\net6.0\Cantinho.Application.csproj.CopyComplete

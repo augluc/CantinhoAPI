@@ -1,0 +1,12 @@
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\bin\Debug\net6.0\Cantinho.Contracts.deps.json
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\bin\Debug\net6.0\Cantinho.Contracts.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\bin\Debug\net6.0\Cantinho.Contracts.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.csproj.AssemblyReference.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.AssemblyInfoInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.AssemblyInfo.cs
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\refint\Cantinho.Contracts.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\Cantinho.Contracts.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Contracts\obj\Debug\net6.0\ref\Cantinho.Contracts.dll

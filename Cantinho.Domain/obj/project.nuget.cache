@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTwY/uWPqV8C6dtNKwXYuJ8/OUKFvDogUDXvcaeLrekP/e0FJPUBAhvpo1xKyl/E3cEFW7hj8wSxyeF6LNkkhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lassis\\.nuget\\packages\\erroror\\0.1.0\\erroror.0.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

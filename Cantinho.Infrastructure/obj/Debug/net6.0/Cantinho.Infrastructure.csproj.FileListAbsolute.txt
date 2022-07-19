@@ -1,0 +1,17 @@
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Infrastructure.deps.json
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Infrastructure.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Infrastructure.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.AssemblyInfo.cs
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\refint\Cantinho.Infrastructure.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\ref\Cantinho.Infrastructure.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Application.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Domain.dll
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Application.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\bin\Debug\net6.0\Cantinho.Domain.pdb
+C:\Users\lassis\Documents\csharp\API - Restaurante\Cantinho\Cantinho.Infrastructure\obj\Debug\net6.0\Cantinho.Infrastructure.csproj.CopyComplete

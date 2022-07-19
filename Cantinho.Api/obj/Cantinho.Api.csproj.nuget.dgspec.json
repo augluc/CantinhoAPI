@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Api\\Cantinho.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Api\\Cantinho.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Api\\Cantinho.Api.csproj",
+        "projectName": "Cantinho.Api",
+        "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Api\\Cantinho.Api.csproj",
+        "packagesPath": "C:\\Users\\lassis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj": {
+                "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj"
+              },
+              "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\Cantinho.Contracts.csproj": {
+                "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\Cantinho.Contracts.csproj"
+              },
+              "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\Cantinho.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\Cantinho.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "fluentResults": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "oneof": {
+              "target": "Package",
+              "version": "[3.0.223, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj",
+        "projectName": "Cantinho.Application",
+        "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj",
+        "packagesPath": "C:\\Users\\lassis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj": {
+                "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "fluentResults": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "oneof": {
+              "target": "Package",
+              "version": "[3.0.223, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\Cantinho.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\Cantinho.Contracts.csproj",
+        "projectName": "Cantinho.Contracts",
+        "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\Cantinho.Contracts.csproj",
+        "packagesPath": "C:\\Users\\lassis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj",
+        "projectName": "Cantinho.Domain",
+        "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\Cantinho.Domain.csproj",
+        "packagesPath": "C:\\Users\\lassis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[0.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\Cantinho.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\Cantinho.Infrastructure.csproj",
+        "projectName": "Cantinho.Infrastructure",
+        "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\Cantinho.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lassis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lassis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj": {
+                "projectPath": "C:\\Users\\lassis\\Documents\\csharp\\API - Restaurante\\Cantinho\\Cantinho.Application\\Cantinho.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.20.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
